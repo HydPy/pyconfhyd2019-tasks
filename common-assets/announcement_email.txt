@@ -1,0 +1,19 @@
+Hi Everyone,
+
+We(Hyderabad Python User Group) are glad to share with you all that Hyderabad's biggest Python conference "PyConf Hyderabad" is back with its second edition. We organized the first edition back in 2017 and in 2018 we organized PyCon India, both were a huge success and very well received by the community. This time we are back with double the energy and double the fun, please check out more details about the conference on our website [1].
+
+We're also happy to announce that the "Call for Proposals" [2] is open. Feel free to submit a talk or workshop proposal. The deadline is October 31st 2019.
+
+For any CFP related questions, please reach out to us at [3] and for any general queries please write an email to [4].
+
+Please do spread the word and come join us at the conference this year. We look forward to seeing you. Also, do follow us on our social media channels [5][6].
+
+[1] - https://pyconf.hydpy.org/2019/
+[2] - https://www.papercall.io/pyconf-hyderabad2019
+[3] - cfp@hydpy.org
+[4] - contact@hydpy.org
+[5] - https://twitter.com/pyconfhyd
+[6] - https://twitter.com/hydPython
+
+Best Regards
+XYZ

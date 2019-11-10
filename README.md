@@ -4,16 +4,16 @@ The primary purpose of this repository is to create a central place to keep trac
 
 Excepting for Website related tasks everything else would be maintained here.
 
-There would be following workgroups and corresponding leads are mentioned below - 
+There would be following workgroups and corresponding leads are mentioned below -
 
 - CFP: Praneeth, Prudhvi
 
 - Social Media: Yogesh, Sanchit
 
-- Design: TBA
+- Design: Sanchit (For now)
 
 - Sponsorship: Murthy, Ram
 
-- Venue & Logistics: TBA
+- Venue & Logistics: Sanchit/Ram (For now)
 
 - Website & Design: Ananyo, Bharat
