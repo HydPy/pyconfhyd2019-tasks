@@ -17,7 +17,7 @@ Action-Items:
 - Food to finalized and closed this week - Sanchit/Jatin
 - Speakers stay, need quotes by this week - Sanchit
 - Workshop announcement to be done by Monday - Praneet/Prudhvi
-- Talk selection to be completed by Wednesday 13th November - Praneet/Prudhvi
+- Talk selection to be completed by next weekend - Praneet/Prudhvi
 - Talk to Abhinay about the printing stuff/goodies and T-shirts - Sanchit
 - Talk to Ranjith on venue confirmation - Bobby/Sanchit
 - Work on accessbility aspect - Sanchit
