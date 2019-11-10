@@ -1,0 +1,11 @@
+Hi [Mentor],
+I am writing to you on behalf of Hyderabad Python Users Group regarding Mentoring for Devsprints at PyConf Hyderabad 2019 [1]. To give a brief about PyConf Hyderabad, it's the biggest regional gathering of Pythonistas in and around Hyderabad. This is the second Edition of the Conference. The first one was held in 2017. We were also the organisers of PyCon India 2018 which had a footfall of 1600+ people. This year we are having the Conference at IIIT Hyderabad on 7th (Workshops and Devsprint) & 8th (Main Conference) December. We have recently started taking projects for Devsprints [2] and so we are reaching out to you to Mentor for [Project Name]. Since it's a developer Conference a lot of enthusiastic people turn up who want to contribute to upstream projects. Introducing your project will help in bringing more upstream contributors to the community. Do let us know if you will be come up for the Devsprint and you can reply back to the email for any queries you have. Looking forward to your response.
+
+Regards,
+Ananyo Maiti
+HydPy Member
+
+
+[1]:  https://pyconf.hydpy.org/2019/
+
+[2]: https://github.com/HydPy/hydpyconf2019/wiki/PyConf-Hyderabad-2019-Devsprint
