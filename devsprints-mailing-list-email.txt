@@ -1,0 +1,11 @@
+Hi all,
+We are looking for Devsprint mentors for PyConf Hyderabad 2019 [1]. Devsprints will happen on 7th Dec at IIIT Hyderabad. To know about PyConf Hyderabad Devsprints please check this link [2]. If you are interested in Mentoring for a Devsprint please submit a proposal by editing the GitHub wiki link [3]. Projects should be based primarily on Python.
+
+Please contact us in our email [4] if you want any more details.
+
+[1] - https://pyconf.hydpy.org/2019/
+[2]- https://github.com/HydPy/hydpyconf2019/wiki/PyConf-Hyderabad-2019-Devsprint
+[3]- https://github.com/HydPy/hydpyconf2019/wiki/PyConf-Hyderabad-2019-Devsprint/_edit
+
+Thanks,
+{name}
